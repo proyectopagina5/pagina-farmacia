@@ -1,2 +1,2 @@
-# pagina-farmacia
-proyecto de quinto semestre
+# pagina-paracami
+pagina para max
